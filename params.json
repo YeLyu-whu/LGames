@@ -1,0 +1,6 @@
+{
+  "name": "Lgames",
+  "tagline": "This repo contains different little games. You can have a try and experience the game.",
+  "body": "# LGames\r\nThis repo contains different little games. You can have a try and experience the game.\r\n1.LBoxShooter, based on Unity3d. Shoot the box to win the game. Once, you lose or beat the level, shoot the rotated text to continue.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
